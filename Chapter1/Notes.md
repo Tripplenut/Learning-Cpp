@@ -6,4 +6,4 @@ So this is the first section of the first section of the book. It goes over how 
 
 ## Section 2
 
-This chapter is about inputs and outputs. Let me just say, importing stuff on Java is 10 times more painful then it is with C++.
+This chapter is about inputs and outputs. Let me just say, inputting stuff on Java is 10 times more painful then it is with C++. Some key concepts of this section was initializing variables, writing and reading from the stream, as well as importing libraries. It goes over the libraries briefly as its only really needed for the inputs and outputs.
