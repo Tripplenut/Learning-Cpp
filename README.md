@@ -10,6 +10,8 @@ With that said All the folder/files in this project is based of the chapters and
 
 Started- 1/24/22
 
-Chapter 1- 1/24/22 to ?
+Chapter 1- 1/24/22 to 1/28/22
+
+Chapter 2- 1/29/22 to ?
 
 Ended- Hopefully by April 1st if I stick to the goal of 1 section a day
