@@ -6,12 +6,14 @@ This is really just a repo for me to document my progress with learning c++. It'
 
 With that said All the folder/files in this project is based of the chapters and sections of C++ Primer by Stanely B. Lippamn, which is also what I am using to learn the language (Youtube vids just couldn't cut it). I am going to try and do about a section a day and put some notes on the markdown for that specific chapter.
 
-## Goals/Milestones
+## Calendar
 
 Started- 1/24/22
 
 Chapter 1- 1/24/22 to 1/28/22
 
-Chapter 2- 1/31/22 to ?
+Chapter 2- 1/31/22 to 2/16/22 (Took a super long break)
+
+Chapter 3- 2/17/22 to ...
 
 Ended- Hopefully by April 1st if I stick to the goal of 1 section a day
