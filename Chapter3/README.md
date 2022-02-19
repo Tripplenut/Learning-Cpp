@@ -11,3 +11,7 @@ This section was about strings and different ways to initilize them. Also String
 ## Section 3 (Vectors)
 
 This section is about vectors. Going into it I had no idea how they work and leaving I still had no idea how they worked. It is essentialy an array but not really, maybe a list. One nice thing is that its resizable and would definenty be useful unless that have other sorts of lists, then im probably never going to use this a day in my life. That seems to be the case knowing how I need to type like a whole for loop to add elements to it aswell. Only thing this has going for it is resizabilty.
+
+## Section 4 (Iterators)
+
+This section is about iterators and their usage. It't like a pointer for Vectors, Strings, and probably arrays too. It allows you to access each element within a "list" from a starting part the end. They work like pointers as they both give us inderect access to an object but the difference is iterators allow us to go from element to element rather then just accessing the sequence as a whole. I don't really like it much but if a regular for or while loop with other variables don't suffice I guess it's useful. It's also weird that c++ programmers use != when checking if a sequence isn't at its final var.
