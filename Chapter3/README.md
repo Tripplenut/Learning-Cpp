@@ -15,3 +15,7 @@ This section is about vectors. Going into it I had no idea how they work and lea
 ## Section 4 (Iterators)
 
 This section is about iterators and their usage. It't like a pointer for Vectors, Strings, and probably arrays too. It allows you to access each element within a "list" from a starting part the end. They work like pointers as they both give us inderect access to an object but the difference is iterators allow us to go from element to element rather then just accessing the sequence as a whole. I don't really like it much but if a regular for or while loop with other variables don't suffice I guess it's useful. It's also weird that c++ programmers use != when checking if a sequence isn't at its final var.
+
+## Section 5 (Arrays)
+
+This section is about arrays. Love arrays with a passion and I've been waiting for this chapter to come. Arrays don't have the flexibility vectors have since you declare their size on compile and you can't alter it but in my opinion it is much easier to traverse and alter arrays to ones needs rather then the queue kind of format vectors have. It was a digestable chapter until the author started talking about getting the pointer values of the specific values in the array. One key take away is that you can point to an array and traverse through it with that pointer aswell.
