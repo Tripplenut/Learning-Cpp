@@ -19,3 +19,11 @@ This section is about iterators and their usage. It't like a pointer for Vectors
 ## Section 5 (Arrays)
 
 This section is about arrays. Love arrays with a passion and I've been waiting for this chapter to come. Arrays don't have the flexibility vectors have since you declare their size on compile and you can't alter it but in my opinion it is much easier to traverse and alter arrays to ones needs rather then the queue kind of format vectors have. It was a digestable chapter until the author started talking about getting the pointer values of the specific values in the array. One key take away is that you can point to an array and traverse through it with that pointer aswell.
+
+## Section 6 (Matrix)
+
+This section is about Matrix/2 dimensional arrays. All the same rules apply to these are regular arrays yet there it just another level to their complexity as it is an array inside of an array. Useful for mazes, maps, data something to be honest I don't really know I just know that when you gotta use them you need to know how to use them. You can also make tic-tac-toe :)
+
+## Tic Tac Toe
+
+I decided I would put my array and matrix knowledge to use and make a tic-tac-toe game. You just gotta put in the cooridantes of where you wanna place your pieces and stuff and it'll place them. Play against a friend, or if you have no friends like me yourself. (Don't forget to make this)
