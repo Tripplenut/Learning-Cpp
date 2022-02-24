@@ -15,3 +15,7 @@ This section is about logical operators for bools and other true or false statem
 ## Section 4 (Assignment Operators)
 
 This section is about assignment operators and how you can assign values to variables and objects. It is the same as in java, you can't assign expressions to a value, you cant assign a value to a number, and it goes over other ways to initilize variables like var1 = var2 = var3 with var3 being some type of prim data type or object. There is also a really convenient way to make a while loop condition easier to understand. Check the file for that.
+
+## Section 5 (Increment and Decrement Operators)
+
+This section is about easy and conviencte ways to increase and decrease the values of ints, longs, floats, and doubles. It is just the ++ and -- operand. I picked this one up in java but incase you somehow forgot it pick it up or if by some chance your a random person reading this defininetly pick this one up.
