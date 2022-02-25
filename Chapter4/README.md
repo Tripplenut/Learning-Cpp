@@ -23,3 +23,7 @@ This section is about easy and conviencte ways to increase and decrease the valu
 ## Section 6 (Member Access Operators)
 
 This section is about the different ways you can access members/methods/functions of an object. The 2 ways to do this is with "->" which is the least popular way. I've only ever seen this used with lamba expressions. The other being the dot or ".". This way is more recognizable but when you are calling multiple methods it looks pretty ugly.
+
+## Section 7 (Conditional Operators)
+
+This is about the conditional operator that allows you to shorten the length of a if-else statement. I recently found out about this function while doing leetcode problems. The formating is var = cond ? expr1 : expr2. If condition is true it sets var to expr1 else var is set to expr2. Check the file to see it in action. Pretty useful and easy to read.
