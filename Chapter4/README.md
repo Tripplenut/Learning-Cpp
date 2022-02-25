@@ -19,3 +19,7 @@ This section is about assignment operators and how you can assign values to vari
 ## Section 5 (Increment and Decrement Operators)
 
 This section is about easy and conviencte ways to increase and decrease the values of ints, longs, floats, and doubles. It is just the ++ and -- operand. I picked this one up in java but incase you somehow forgot it pick it up or if by some chance your a random person reading this defininetly pick this one up.
+
+## Section 6 (Member Access Operators)
+
+This section is about the different ways you can access members/methods/functions of an object. The 2 ways to do this is with "->" which is the least popular way. I've only ever seen this used with lamba expressions. The other being the dot or ".". This way is more recognizable but when you are calling multiple methods it looks pretty ugly.
