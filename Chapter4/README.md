@@ -31,3 +31,7 @@ This is about the conditional operator that allows you to shorten the length of 
 ## Section 8 (Bitwise Operators)
 
 This section is about bitwise operators, so ~, <<, \>\>, &, |, and ^. I don't really know anything about this and even after reading the chapter I have no clue. It kind of like takes the binary value of variables and allows you to alter, flip, and combine them in different ways. This is definetily a horrible explanation but in the future I hope this makes sense.
+
+## Section 9 (sizeof Operator)
+
+This section is about the function sizeof. I've used it a few times to get the length of strings and array and to behonest I don't like how it works but it works and thats all that matters. Check the file for initilizaiton and examples.
