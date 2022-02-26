@@ -27,3 +27,7 @@ This section is about the different ways you can access members/methods/function
 ## Section 7 (Conditional Operators)
 
 This is about the conditional operator that allows you to shorten the length of a if-else statement. I recently found out about this function while doing leetcode problems. The formating is var = cond ? expr1 : expr2. If condition is true it sets var to expr1 else var is set to expr2. Check the file to see it in action. Pretty useful and easy to read.
+
+## Section 8 (Bitwise Operators)
+
+This section is about bitwise operators, so ~, <<, \>\>, &, |, and ^. I don't really know anything about this and even after reading the chapter I have no clue. It kind of like takes the binary value of variables and allows you to alter, flip, and combine them in different ways. This is definetily a horrible explanation but in the future I hope this makes sense.
