@@ -2,7 +2,7 @@
 
 ## Section 1 (Fundementals)
 
-This section is about the basic concepts of operators and operands. I knew pretty much all of this from java. Its really just what order math is done in which is pemdas of course, using parentheses for altering that order and stuff.
+This section is about the basic concepts of operators and operands. I knew pretty much all of this from java. It's really just what order math is done in which is PEMDAS of course, using parentheses for altering that order and stuff.
 
 ## Section 2 (Arithmetic Operators)
 
@@ -39,3 +39,7 @@ This section is about the function sizeof. I've used it a few times to get the l
 ## Section 10 (Comma Operator)
 
 This section is about using commas to extend the usage of a previous peice of code. Its most commonly used when initilizing variables but can also be used in loops. Check the file to see it's usage in loops.
+
+## Section 11 (Type Conversions)
+
+This section is about type conversions. So turning integer into floats, expressions into booleans, and concatenating. C++ already does most of that for you but there are certain ways to assure you wont get errors when trying to do it yourself. Check the file for examples. This is definitely one of the most useful chapters I have come across as type conversion was something I never learned fully in java and was definitely the source of countless errors.
