@@ -35,3 +35,7 @@ This section is about bitwise operators, so ~, <<, \>\>, &, |, and ^. I don't re
 ## Section 9 (sizeof Operator)
 
 This section is about the function sizeof. I've used it a few times to get the length of strings and array and to behonest I don't like how it works but it works and thats all that matters. Check the file for initilizaiton and examples.
+
+## Section 10 (Comma Operator)
+
+This section is about using commas to extend the usage of a previous peice of code. Its most commonly used when initilizing variables but can also be used in loops. Check the file to see it's usage in loops.
