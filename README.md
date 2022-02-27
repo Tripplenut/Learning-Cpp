@@ -16,6 +16,8 @@ Chapter 2- 1/31/22 to 2/16/22 (Took a super long break)
 
 Chapter 3- 2/17/22 to 2/20/22
 
-Chapter 4- 2/21/22 to ...
+Chapter 4- 2/21/22 to 2/27/22
+
+Chapter 5- 2/28/22 to ...
 
 Ended- Hopefully by April 1st if I stick to the goal of 1 section a day
