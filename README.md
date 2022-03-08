@@ -20,4 +20,6 @@ Chapter 4- 2/21/22 to 2/27/22
 
 Chapter 5- 2/28/22 to 3/4/22
 
+Chapter 6 - 3/7/22 to ...
+
 Ended- Hopefully by April 1st if I stick to the goal of 1 section a day
