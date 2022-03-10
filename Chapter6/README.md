@@ -15,3 +15,7 @@ This section is about returns and return types. When you make a method that isn'
 ## Section 4 (Overloaded Functions)
 
 This section is about Overloaded Functions and how to use them. I'm not gonna lie, I knew method overriding was a thing and that you can make overloaded constructors but overloaded methdods... This just changed everything for me I swear. I am going to have an absolute field day from this day on using this in places were I do not need to. To sum it up you can use different parameters for the same function to do the same thing (or different). So lets say you have a value for a parameter it can run the code with that parameter but if you don't got it you can still run the code without it. Check the file to see a little example.
+
+## Section 5 (Features for Specialized Uses)
+
+This section is about a whole lot of shit i don't understand and don't really want to. There is one part that is cool and its calling functions with default arguements. It's like you can pick and choose what parameters into a function and for those that are not provided it takes the default. I tried my best to make an example in the file. Keep in mind this only works for trailing arguments so whiile I did say pick and choose put parameters in order of importance.
