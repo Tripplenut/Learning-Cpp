@@ -27,3 +27,7 @@ This section is about a function matching or like figuring out which overloaded 
 ## Section 7 (Pointers to Functions)
 
 This section is about using pointers to call functions. I assume its for saving memory or something like that idk but one this I do know is that I am not explaining on the bull shit I just read. Sorry to future me for this but there is no way in hell I was ever going to use this in the next 2 years of my life so it would only be a waste of resources to type out the spagetti code I am currently looking at. Aside from that the chapter is over, now its project time :)
+
+## Calculator
+
+This is the worlds most ineffficient calculator. I could have condenced the code but I got way to lazy to do all that for a project no one but myself will ever look at. Matter of fact figure out how I could condense it into one function and still use the switch statement. It's not too hard to figure out.
