@@ -19,3 +19,7 @@ This section is about Overloaded Functions and how to use them. I'm not gonna li
 ## Section 5 (Features for Specialized Uses)
 
 This section is about a whole lot of shit i don't understand and don't really want to. There is one part that is cool and its calling functions with default arguements. It's like you can pick and choose what parameters into a function and for those that are not provided it takes the default. I tried my best to make an example in the file. Keep in mind this only works for trailing arguments so whiile I did say pick and choose put parameters in order of importance.
+
+## Section 6 (Function Matching)
+
+This section is about a function matching or like figuring out which overloaded function to call. So when you have a bunch of overloaded functions of the same name but different types and parameter lengths the computer needs to figure out which function to call. To begin if the number of function you called uses a different amount of parameters then one of the overloaded functions the computer automatically cancels out that function as being the correct one. Then it checks the types. So if you have 2 overloaded and one takes type int while the other takes floats it will go with the function with the closest cast, so if its a short or int the int function will be called, if its a float or a double the float function will be called. Lets say the functions take floats and longs, you will get an "ambigious call" if you input a double as it can be casted down as both a float and long.
