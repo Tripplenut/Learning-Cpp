@@ -22,6 +22,4 @@ Chapter 5- 2/28/22 to 3/4/22
 
 Chapter 6 - 3/7/22 to 3/13/22
 
-Chapter 7 - 3/14/22 to ...
-
-Ended- Hopefully by April 1st if I stick to the goal of 1 section a day (no way in hell I achieve this deadline)
+Ended- 3/14/22. At my current understanding of computer science and programming in general, damn near everything, I think I succeeded in getting the basics down of c++, and all that is left is playing with the language and creating projects. It was a fun 2 months (not really), and I think I'm ready to tackle some projects.
